@@ -1,0 +1,5 @@
+Apostle is a .NET based malware that evolves from a Wiper to full-featured ransomware. It shares code with another tool from Agris APT arsenal, IPsec Helper. It is targeted toward the United Arab Emirates, but the media portray it as it was directed toward israel. Even SentinalOne who originally claim it to be Iranian, itself not sure about it. Apostle has many logical flaws and is not suitable for operations so it is replaced by DEADWOOD Wiper.
+
+Family: HEUR:Trojan.MSIL.Agent.gen
+MD5: 851b7b8dd006dc889bf8f9282dc853ce
+SHA256: 19dbed996b1a814658bef433bad62b03e5c59c2bf2351b793d1a5d4a5216d27e
