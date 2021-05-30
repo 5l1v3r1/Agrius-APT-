@@ -1,0 +1,5 @@
+IPsec Helper is a backdoor implant used by Agrius APT. Agrius is attributed to Iran and allegedly targets Israeli systems. IPsec Helper is written in .net and provides many services to its owner. The backdoor provides basic functionality like uploading files from the infected system, running commands, and deploying additional executables. It connects back to C2 servers over HTTP based on a configuration file. This file is created upon installation of the malware and contains information about its command and control servers. Once it is installed it waits for commands. The tool is run as a service, suggesting it is executed once the threat actor has achieved elevated privileges.
+
+Family: HEUR:Backdoor.MSIL.Agent.gen
+MD5: 4ea373d0ab8d50b644c95f415e1c0694
+SHA256: 7b525fe7117ffd8df01588efb874c1b87e4ad2cd7d1e1ceecb5baf2e9c052a52
