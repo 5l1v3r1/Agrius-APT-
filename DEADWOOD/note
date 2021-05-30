@@ -1,0 +1,5 @@
+DEADWOOD Wiper take place of the Apostle Wiper, which has many logical flaws and it did not work as expected by the attackers named as Agrius. Agrius also utilized DEADWOOD (aka Detbosit), a wiper. It is written in C++ using the Boost libraries. The wiper can be executed in two modes: as a Service and as a Windows Application. When executed DEADWOOD will attempt to overwrite files using random data which unlike ransomware is not recoverable and there is a total loss of data.
+
+Family: Trojan:Win32/DarkShadowEvents.A!dha
+MD5: 857ef30bf15ea3da9b94092da78ef0fc
+SHA256: 18c92f23b646eb85d67a890296000212091f930b1fe9e92033f123be3581a90f
